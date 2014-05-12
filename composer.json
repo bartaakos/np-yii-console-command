@@ -1,0 +1,18 @@
+{
+    "name": "bartaakos/np-yii-console-command",
+    "description": "Advanced base console command for Yii applications.",
+    "keywords": ["yii console", "yii console command", "console command", "consolecommand"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akos Barta",
+            "email": "brta.akos@gmail.com",
+            "homepage": "https://github.com/bartaakos"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": ">=1.1.14"
+    },
+    "minimum-stability": "dev"
+}
